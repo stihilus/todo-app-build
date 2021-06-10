@@ -1,2 +1,2 @@
 # todo-app
-todo app react
+live: https://stihilus.github.io/todo-app/
